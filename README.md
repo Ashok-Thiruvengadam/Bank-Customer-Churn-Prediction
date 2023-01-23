@@ -1,4 +1,5 @@
 # Bank-Customer-Churn-Prediction
+
 Problem Setting:
 Customer churn, also known as customer attrition, is the phenomenon in which a customer
 leaves an organization. This customer attrition is likely to influence a bank's income for various
@@ -8,9 +9,11 @@ Problem Definition:
 To grow a bank's business model, it is necessary to forecast the likelihood of client attrition. This
 project's primary goal is to create a supervised machine-learning model that will help in the
 classification of churn consumers.
+
 Data Source:
 The data was obtained from the well-known open-source repository Kaggle.
 URL: https://www.kaggle.com/datasets/santoshd3/bank-customers
+
 Data Description:
 The data consists of 10000 Customers across the globe. This data has the following columns:
 No Feature Name
@@ -23,7 +26,6 @@ No Feature Name
 7 Age
 8 Tenure
 9 Balance
-IE7275 - Data Mining in Engineering
 10 NumOfProducts
 11 HasCrCard
 12 IsActiveMember
