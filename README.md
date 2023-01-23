@@ -15,7 +15,7 @@ The data was obtained from the well-known open-source repository Kaggle.
 URL: https://www.kaggle.com/datasets/santoshd3/bank-customers
 
 Data Description:
-The data consists of 10000 Customers across the globe. This data has the following columns:
+Its a bank customer data. The data consists of 10000 Customers across the globe. This data has the following columns:
 No Feature Name
 1.RowNumber,
 2.CustomerId,
